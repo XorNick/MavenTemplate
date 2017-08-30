@@ -1,0 +1,4 @@
+name: BukkitPlugin
+main: org.bukkit.plugin.BukkitPlugin
+version: 0.1
+author: XorNick
